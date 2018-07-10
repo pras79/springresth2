@@ -11,6 +11,8 @@ public class SpringsecurityApplicationTests {
 
     @Test
     public void contextLoads() {
+	
+	System.out.println ("executing a test") ;
     }
 
 }
